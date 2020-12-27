@@ -18,7 +18,7 @@ fun main() {
 
 // бот и описание его команд
 private val equationsBot = bot {
-    token = "1470123209:AAElzaYbNxiZ_5_0ikd8PNbQ3UWoFC7L2m0"
+    token = "token"
     timeout = 30
     dispatch {
 
